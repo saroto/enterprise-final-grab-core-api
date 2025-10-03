@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS public.users CASCADE;
+DROP TABLE IF EXISTS public.tokens CASCADE;
+DROP TABLE IF EXISTS public.accounts CASCADE;
+DROP TABLE IF EXISTS public.transactions CASCADE;
